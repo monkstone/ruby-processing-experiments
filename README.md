@@ -12,4 +12,7 @@ To run command line `k9 --run bouncing_boxes.rb` else use JRubyArt plugin for At
 
 ## Experiment 2: Tinted Video
 
- * Video
+ * Video (you will probably need to change name of capture device) see [test sketch here][test]
+
+
+ [test]:https://github.com/ruby-processing/JRubyArt-examples/blob/master/processing_app/library/video/capture/test_capture.rb
